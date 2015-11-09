@@ -14,6 +14,7 @@
     <meta charset="utf-8">
 
     <link href="style.css">
+    <link href="bootstrap.min.css">
 
 </head>
 <body>
