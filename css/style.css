@@ -1,0 +1,27 @@
+
+
+.post{
+    padding-top: 80px;
+}
+
+ul{float: left;
+}
+
+.write{
+    display:none;
+}
+
+.flip{
+float:left;
+    width: 30%;
+    margin:30px;
+    border: 1px #ccc solid;
+    padding:5px;
+    border-radius: 5px;
+    text-align: center;
+    cursor:pointer;
+}
+
+.flip.focus,.flip:focus{color:#333;background-color:#e6e6e6;border-color:#8c8c8c}
+.flip:hover{color:#333;background-color:#e6e6e6;border-color:#adadad}
+.flip:hover{background-color:#fff;border-color:#ccc}
