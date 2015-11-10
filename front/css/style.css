@@ -1,0 +1,37 @@
+html,body{
+    width: 100%;
+    background-color: #b5c5d2;
+}
+
+header{
+    height: 80px;
+    background-color: #2b669a;
+    padding-top: 20px;
+}
+
+.sidebar{
+    float:right;
+    width: 20%;
+    height:800px;
+    background-color: #337ab7;
+}
+
+.row{
+    background-color:#b5c5d2 ;
+    width: 80%;
+    float:left;
+}
+
+
+.nav{
+    float:right;
+}
+
+.logo{
+    float: left;
+}
+
+.btn{
+    width:250px;
+    margin-left: 10%;
+}
